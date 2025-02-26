@@ -1,2 +1,2 @@
-# Lip-Sync-Moodel
+# Lip-Sync-Model
 Yubi 
